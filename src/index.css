@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #CCE2A3;
+  --secondary-color: #A8C69F;
+  --accent-color: #6EB0CB;
+  --text-color: #6D4C3D;
+  --background-color: #F8F7F7;
+  --font-family: 'Inter', sans-serif;
+
+  --border-radius-lg: 21px;
+  --border-radius-md: 16px;
+  --border-radius-sm: 8px
+}
